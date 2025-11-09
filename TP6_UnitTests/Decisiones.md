@@ -91,7 +91,7 @@ Esto permite que los tests sean:
 
 ## Resumen
 
-Se implementaron **más de 221 tests unitarios** que cubren:
+Se implementaron **más de 100 tests unitarios** que cubren:
 - Toda la lógica de negocio del backend
 - Los servicios principales del frontend
 - Casos exitosos y casos de error
